@@ -1,0 +1,26 @@
+# Required libraries for the P2P publisher-subscriber system
+
+matplotlib==3.9.2
+numpy==2.1.1
+requests==2.31.0
+pytest==7.4.2
+lockfile==0.12.2
+
+# For asynchronous programming
+aiohttp               # For asynchronous HTTP client/server
+asyncio               # Python's built-in library, no need to install separately
+
+# For handling data (optional, if you need JSON or other formats)
+pydantic             # For data validation and settings management
+dataclasses-json      # For JSON serialization and deserialization with dataclasses
+
+# For database handling (optional, if you are using a database)
+asyncpg              # For asynchronous PostgreSQL support
+SQLAlchemy           # SQL toolkit and ORM for Python
+
+# For testing (optional, if you want to write tests for your system)
+pytest               # Testing framework
+httpx                # Async HTTP client for testing APIs
+
+
+

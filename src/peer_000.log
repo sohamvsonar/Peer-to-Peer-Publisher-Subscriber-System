@@ -1,0 +1,9 @@
+INFO:root:[2024-11-02 19:44:27] Peer 000 listening on port 5000
+INFO:root:[2024-11-02 19:51:38] Created publisher with ID 'publisher1'
+INFO:root:[2024-11-02 19:51:38] Publisher 'publisher1' created successfully
+INFO:root:[2024-11-02 19:51:38] Created subscriber with ID 'subscriber1'
+INFO:root:[2024-11-02 19:51:38] Subscriber 'subscriber1' created successfully
+INFO:root:[2024-11-02 19:59:41] Created publisher with ID 'publisher1'
+INFO:root:[2024-11-02 19:59:41] Publisher 'publisher1' created successfully
+INFO:root:[2024-11-02 19:59:41] Created subscriber with ID 'subscriber1'
+INFO:root:[2024-11-02 19:59:41] Subscriber 'subscriber1' created successfully
