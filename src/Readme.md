@@ -1,6 +1,4 @@
 - Name: Soham Sonar
-- CWID: A20541266
-- Section 01
 - Project -
 - Publisher/Subscriber-Peer to Peer System with Distributed hash Table
     • Replicated topics for performance optimization and fault tolerance.
