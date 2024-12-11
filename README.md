@@ -76,4 +76,10 @@ This repository contains the implementation of a **peer-to-peer (P2P) topic-base
 | High Concurrency (N=4,8)	  | Measure throughput during concurrent requests with active topic replication.  |
 | Dynamic Node Join/Leave	    | Add and remove nodes and validate consistent system behavior.                 |
 
-## **Contributions**
+## Future Enhancements
+- Decentralized DHT-based routing for scalable topic lookups.
+- Load balancing across multiple replicas for write-heavy workloads.
+- Improved recovery mechanisms for dynamic topic redistribution.
+
+## Contributing
+- Contributions are welcome! Please submit issues or pull requests for bugs, enhancements, or feature requests.
